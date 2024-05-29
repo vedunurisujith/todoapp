@@ -1,0 +1,4 @@
+pom.xml
+web.iml
+*.properties
+*target
